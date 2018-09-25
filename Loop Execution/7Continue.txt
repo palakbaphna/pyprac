@@ -1,0 +1,2 @@
+If Python interpreter meets continue somewhere in the middle of the loop iteration,
+it skips all the remaining instructions and proceeds to the next iteration.

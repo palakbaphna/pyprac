@@ -1,0 +1,4 @@
+A method is a function that is bound to the object. When the method is called,
+the method is applied to the object and does some computations related to it.
+Methods are invoked as object_name.method_name(arguments).
+For example, in s.find("e") the string method find() is applied to the string s with one argument "e".

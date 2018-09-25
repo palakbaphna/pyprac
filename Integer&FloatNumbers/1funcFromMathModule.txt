@@ -1,0 +1,16 @@
+Function	Description
+
+ROUNDING
+floor(x)	Return the floor of x, the largest integer less than or equal to x.
+ceil(x)	Return the ceiling of x, the smallest integer greater than or equal to x.
+
+
+ROOTS & LOGARITHMS
+sqrt(x)	Return the square root of x
+log(x)	With one argument, return the natural logarithm of x (to base e). With two arguments, return the logarithm of x to the given base
+e	The mathematical constant e = 2,71828...
+
+TRIGONOMETRY
+sin(x)	Return the sine of x radians
+asin(x)	Return the arcsine of x, in radians
+pi	The mathematical constant π = 3.1415...

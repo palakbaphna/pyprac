@@ -1,0 +1,7 @@
+The Infinite Loop
+A loop becomes infinite loop if a condition never becomes FALSE.
+You must use caution when using while loops because of the possibility that
+this condition never resolves to a FALSE value. This results in a loop that never ends. Such a loop is called an infinite loop.
+
+An infinite loop might be useful in client/server programming where the server needs to run continuously so that client programs
+can communicate with it as and when required.

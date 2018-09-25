@@ -1,0 +1,1 @@
+If the else statement is used with a while loop, the else statement is executed when the condition becomes false.

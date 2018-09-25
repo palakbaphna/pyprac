@@ -1,0 +1,6 @@
+In this case the conditions in if and elifs are checked one after another until the first true condition is found.
+Then only the true-block for that condition is being executed.
+If all the conditions are false, the else-block is being executed, if it's present.
+
+Any Python instruction may be put into true-blocks and false-block, including another conditional statement.
+This way we get nested conditions. The blocks of inner conditions are indented using twice more spaces (eg. 8 spaces)
